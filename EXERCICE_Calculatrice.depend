@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708976386 source:c:\projets c\projet udemy\exercice_calculatrice\main.c
+	<stdio.h>
+	<stdlib.h>
+
